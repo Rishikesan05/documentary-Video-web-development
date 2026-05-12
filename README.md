@@ -1,6 +1,7 @@
 # Documentary Video Hub | Rishi Production
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-video.rishiware.com-00C49F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://video.rishiware.com)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg?style=for-the-badge)](LICENSE)
 
 
 **Documentary Video Hub** is a specialised landing page designed to host and showcase professional documentary content. Built for **Rishi Production**, the platform provides a high-impact, immersive viewing experience with integrated contact and production service highlights.
