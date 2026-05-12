@@ -1,0 +1,7 @@
+
+# Environment Exclusions
+.agents/
+.project_history
+.gemini/
+*.ai
+
